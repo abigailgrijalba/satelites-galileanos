@@ -6,4 +6,5 @@ Se llaman **satélites galileanos** los cuatro satélites de Júpiter descubiert
 
 **Figura 1**. Los cuatro satélites galileanos, en una composición que compara sus tamaños con el tamaño de Júpiter. En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
-![](https://www.aon.es/personales/seguro-perro-gato/wp-content/uploads/sites/2/2021/04/bichon-maltes.jpg)
+Esta es la imagen local
+![mono](mono.webp)
